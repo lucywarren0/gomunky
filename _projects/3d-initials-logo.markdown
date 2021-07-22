@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Initials Logo"
-tags: 3D 3DS-Max 3D-modeling Photoshop
+tags: weetWoot 3D 3DS-Max 3D-modeling Photoshop
 sidebar: true
 text: true
 description: Weet woot.
